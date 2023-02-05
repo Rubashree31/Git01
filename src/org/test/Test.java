@@ -7,6 +7,14 @@ public class Test {
 		System.out.println("test1");
 
 	}
+	
+	private void add() {
+		
+		int a =10;
+		int b = 6;
+		System.out.println(a+b);
+
+	}
 
 	public static void main(String[] args) {
 		
